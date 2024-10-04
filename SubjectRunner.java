@@ -9,6 +9,7 @@ public class SubjectRunner {
 		subject.getSubjectDetail("21MAT11");
 		subject.getNumberOfChar("Maths");
 		subject.getlengthOfChar("21MAT11");
+		subject.getNumberOfWords("This Is a Java Workshop");
 	}
 
 }
